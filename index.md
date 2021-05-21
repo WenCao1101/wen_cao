@@ -15,8 +15,8 @@
 
 
 # Newest Information
-- CG Reading Group on PRIME project at April 21  [Link](https://sites.google.com/view/cg-reading-group-imperial/planning)
-- VCL paper reading seminars of LI.U  University at May 4 [Link](https://computergraphics.on.liu.se/vcl_reading_group/#information)
+- Presentation on CG Reading Group on PRIME project at April 21  [Link](https://sites.google.com/view/cg-reading-group-imperial/planning)
+- Presentation on VCL paper reading seminars of LI.U  University at May 4 [Link](https://computergraphics.on.liu.se/vcl_reading_group/#information)
 
 # Direction of Research
 - Sparse sub-space representations for image synthesis
