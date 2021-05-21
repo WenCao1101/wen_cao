@@ -11,27 +11,30 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Person Information
+-Name:Wen Cao
+- Educaiton:Ph.D. Student
+-School:Linköping University
+-Email:wen.cao@liu.se
 
-- Bulleted
-- List
+# Newest Information
+-CG Reading Group on PRIME project
+-VCL paper reading seminars of LI.U  University
 
-1. Numbered
-2. List
+# Direction of Research
+-Sparse sub-space representations for image synthesis
+
+# Honor
+-Funded by Marie Skłodowska-Curie Actions or Seal of Excellence
+
+# Project
+- Sparse modelling and compressed sensing for multi-spectral image reconstruction 
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WenCao1101/wencao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
